@@ -2,9 +2,9 @@
 
 ![Texto alternativo](man-and-ia.jpg)
 
-- 🔭 I’m currently working on Panthera...
-- 🌱 I’m currently learning Angular and React.js...
-- 
+- 🔭 I’m currently working on Panthera
+- 🌱 I’m currently learning Angular and React.js
+
 <!--
 **AlejoObandoGil/AlejoObandoGil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
