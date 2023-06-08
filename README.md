@@ -1,6 +1,6 @@
 ### Hi I'm John Obando and i'm software developer 👋
 
-![Texto alternativo](drogon.jpg)
+![Texto alternativo](man-and-ia.jpg)
 
 <!--
 **AlejoObandoGil/AlejoObandoGil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
