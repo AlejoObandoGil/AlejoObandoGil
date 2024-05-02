@@ -5,10 +5,10 @@
 </h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%2300FF00&size=25&center=true&vCenter=true&width=600&height=100&lines=I'm+Full+Stack+Software+Developer,;And+Systems+Engineer;"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%2300FF00backgroundColor=%23000000&&size=25&center=true&vCenter=true&width=600&height=100&lines=I'm+Full+Stack+Software+Developer,;And+Systems+Engineer;"></a>
 </p>
 
-![Texto alternativo](matrix.png)
+<img src="matrix.png" alt="Texto alternativo" width="300" height="200">
 
  <h2> &lt;About Me/&gt; </h2>
  <p>
