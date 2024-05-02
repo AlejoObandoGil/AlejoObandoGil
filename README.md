@@ -31,7 +31,7 @@
 <h2> &lt;Skills/&gt; </h2>
 
 <h3> main()/</h3>
-&nbsp;
+&emsp;
 <a href="#"><img alt="Laravel" src="https://img.shields.io/badge/-Laravel-red?logo=laravel&logoColor=black></a>&nbsp;
 <a href="#"><img alt="PHP" src="https://img.shields.io/badge/-PHP-blue?logo=php&logoColor=black"></a>&nbsp;
 <a href="#"><img alt="Vue.js" src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D"></a>&nbsp;
