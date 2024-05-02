@@ -9,7 +9,7 @@
 </p>
 
 <div style="text-align:center;">
-  <img src="matrix.png" alt="Texto alternativo" width="600" height="600">
+  <img src="matrix.png" alt="Texto alternativo" width="400" height="400">
 </div>
 
 
