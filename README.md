@@ -8,7 +8,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Consolas&color=%2300FF00&backgroundColor=%23000000&&size=25&center=true&vCenter=true&width=600&height=100&lines=I'm+Full+Stack+Software+Developer,;And+Systems+Engineer;"></a>
 </p>
 
-<div style="text-align:center;">
+<div align="center">
   <img src="matrix.png" alt="Texto alternativo" width="400" height="400">
 </div>
 
@@ -31,11 +31,14 @@
 <h2> &lt;Skills/&gt; </h2>
 
 <h5> &lt; main()/&gt; </h5>
-![image](https://github.com/AlejoObandoGil/AlejoObandoGil/assets/48570605/b5e3e38e-8243-46ff-8533-71c06052366a)
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 
 
 <h5> &lt;other_knowledge()/&gt; </h5>
-![image](https://github.com/AlejoObandoGil/AlejoObandoGil/assets/48570605/e6ea8e3b-c8f2-4db0-9b46-585fde5a09e9)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
 
 
 <h2> &lt;Connect with me/&gt; </h2>
