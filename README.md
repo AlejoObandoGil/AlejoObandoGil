@@ -5,13 +5,14 @@
 </h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=console&color=#00ff2b&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Full+Stack+Developer,;Systems+Engineer;"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Full+Stack+Developer,;Systems+Engineer;"></a>
 </p>
 
 ![Texto alternativo](man-and-ia.jpg)
 
  <h2> About Me </h2>
  <p>
+   
    - 👾 I am a software developer with 3 years of experience!
    - 💯 I specialize in fusing technology and creativity to drive innovative software solutions. I like creating exceptional experiences in products that transform people's interaction with the world in this digital age. 🤘
    - 👷 I’m currently working on Panthera!
