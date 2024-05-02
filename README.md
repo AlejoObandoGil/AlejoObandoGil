@@ -32,8 +32,8 @@
 
 <h3> main()/</h3>
 &emsp;
-<img alt="Static Badge" src="https://img.shields.io/badge/-Laravel-red?style=for-the-badge&logo=laravel&logoColor=black">&emsp;
-<img alt="Static Badge" src="https://img.shields.io/badge/-php-blue?style=for-the-badge&logo=php&logoColor=black">&nbsp;
+<a href="#"><img alt="Laravel" src="https://img.shields.io/badge/-Laravel-red?style=for-the-badge&logo=laravel&logoColor=black"></a>&emsp;
+<a href="#"><img alt="PHP" src="https://img.shields.io/badge/-php-blue?style=for-the-badge&logo=php&logoColor=black"></a>&nbsp;
 <a href="#"><img alt="Vue.js" src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D"></a>&nbsp;
 <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></a>&nbsp;
 <a href="#"><img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></a>&nbsp;
