@@ -1,4 +1,8 @@
-### Hi 👋 I'm John Obando and i'm software developer
+<h1 align="center">
+  <img src="GIF/Earth.gif" width="24px">
+    &lt;Hello world!/&gt;!
+  <img src="GIF/Hi.gif" width="40px" />
+</h1> Hi 👋 I'm John Obando and i'm software developer
 
 - 🔭 I’m currently working on Panthera
 - 🌱 I’m currently learning React.js and Machine learning with Python
