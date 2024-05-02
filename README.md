@@ -1,16 +1,16 @@
 <h1 align="center">
   <img src="GIF/Earth.gif" width="24px">
-    &lt;Hello world!👋 I'm John Obando/&gt;
+    &lt;🌎 Hello world! I'm John Obando 👋/&gt;
   <img src="GIF/Hi.gif" width="40px" />
 </h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Full+Stack+Developer,;Systems+Engineer;"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%2300FF00&size=25&center=true&vCenter=true&width=600&height=100&lines=I'm+Full+Stack+Software+Developer,;And+Systems+Engineer;"></a>
 </p>
 
 ![Texto alternativo](man-and-ia.jpg)
 
- <h2> About Me </h2>
+ <h2> &lt;About Me/&gt; </h2>
  <p>
    
    - 👾 I am a software developer with 3 years of experience!
@@ -22,6 +22,13 @@
    - 😎 I have developed different software projects at the university and my own projects that have contributed to my professional growth, such as web applications, IoT, video games, research and management of software projects, some of them implemented with technologies such as C++, Java, Python, React .js, PostgreSQL, Docker, Git, among others.
    - 💡 You can find some of them here! ⬇️
  </p>
+
+<h2> &lt;Skills/&gt; </h2>
+
+
+
+<h2> &lt;Connect with me/&gt; </h2>
+
 
 <!--
 **AlejoObandoGil/AlejoObandoGil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
