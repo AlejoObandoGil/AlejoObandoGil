@@ -8,7 +8,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%2300FF00&size=25&center=true&vCenter=true&width=600&height=100&lines=I'm+Full+Stack+Software+Developer,;And+Systems+Engineer;"></a>
 </p>
 
-![Texto alternativo](man-and-ia.jpg)
+![Texto alternativo](matrix.png)
 
  <h2> &lt;About Me/&gt; </h2>
  <p>
