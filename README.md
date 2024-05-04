@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Consolas&color=%2BA774&backgroundColor=%23000000&&size=25&center=true&vCenter=true&width=600&height=100&lines=I'm+Full+Stack+Software+Developer;Systems+and+Computing+Engineer;"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Consolas&color=%00FF00&backgroundColor=%23000000&&size=25&center=true&vCenter=true&width=600&height=100&lines=I'm+Full+Stack+Software+Developer;Systems+and+Computing+Engineer;"></a>
 </p>
 
 <div align="center">
