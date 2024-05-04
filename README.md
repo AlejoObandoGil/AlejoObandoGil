@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Consolas&color=%#3AD83&backgroundColor=%23000000&&size=25&center=true&vCenter=true&width=600&height=100&lines=I'm+Full+Stack+Software+Developer;Systems+and+Computing+Engineer;"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Consolas&color=%33AD83&backgroundColor=%23000000&&size=25&center=true&vCenter=true&width=600&height=100&lines=I'm+Full+Stack+Software+Developer;Systems+and+Computing+Engineer;"></a>
 </p>
 
 <div align="center">
@@ -24,11 +24,11 @@
    - 👷 I’m currently working on Panthera! <br/>
    - 💻 At Panthera I'm a Full Stack web developer at Panthera, working with technologies such as JavaScript, Vue.js, PHP, Laravel, MySQL and Docker mainly. <br/>
    - 💡 Some projects I have contributed to here! ⬇️ <br/>
-  * <a href="https://pantherahub.com/">pantherahub.com</a> <br/>
-  * <a href="https://accedotechnologies.com/">accedotechnologies.com</a> <br/>
-  * <a href="https://levelylms.com/">levelylms.com</a> <br/>
-  * <a href="https://tutrok.com/">tutrok.com</a> <br/>
-  * <a href="https://alltruismo.com/">alltruismo.com</a> <br/>
+    🔜 <a href="https://pantherahub.com/">pantherahub.com</a> <br/>
+    🔜 <a href="https://accedotechnologies.com/">accedotechnologies.com</a> <br/>
+    🔜 <a href="https://levelylms.com/">levelylms.com</a> <br/>
+    🔜 <a href="https://tutrok.com/">tutrok.com</a> <br/>
+    🔜 <a href="https://alltruismo.com/">alltruismo.com</a> <br/>
 </p>
 
 <h2>&lt;skills/&gt;</h2>
