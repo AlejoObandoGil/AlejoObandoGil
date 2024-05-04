@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Consolas&color=%#27AA6A&backgroundColor=%23000000&&size=25&center=true&vCenter=true&width=600&height=100&lines=I'm+Full+Stack+Software+Developer;Systems+and+Computing+Engineer;"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Consolas&color=%27AA6A&backgroundColor=%23000000&&size=25&center=true&vCenter=true&width=600&height=100&lines=I'm+Full+Stack+Software+Developer;Systems+and+Computing+Engineer;"></a>
 </p>
 
 <div align="center">
@@ -14,23 +14,22 @@
 
 <h2>&lt;about-me/&gt;</h2>
 <p>
-   - 🏠 I'm from Pereira, Colombia
-   - 👾 I am a software developer with 3 years of experience!
+   - 🏠 I'm from Pereira, Colombia <br/>
+   - 👾 I am a software developer with 3 years of experience! <br/>
    - 💯 I specialize in fusing technology and creativity to drive innovative software solutions. I like creating exceptional experiences in products that transform people's interaction with the world in this digital age. 🤘
 </p>
+
 <h2>&lt;work/&gt;</h2>
 <p>
-   - 👷 I’m currently working on Panthera!
-   - 💻 At Panthera I'm a Full Stack web developer at Panthera, working with technologies such as JavaScript, Vue.js, PHP, Laravel, MySQL and Docker mainly.
+   - 👷 I’m currently working on Panthera! <br/>
+   - 💻 At Panthera I'm a Full Stack web developer at Panthera, working with technologies such as JavaScript, Vue.js, PHP, Laravel, MySQL and Docker mainly. <br/>
+   - 💡 Some projects I have contributed to here! ⬇️ <br/>
+  <a href="https://pantherahub.com/">pantherahub.com</a> <br/>
+  <a href="https://accedotechnologies.com/">accedotechnologies.com</a> <br/>
+  <a href="https://levelylms.com/">levelylms.com</a> <br/>
+  <a href="https://tutrok.com/">tutrok.com</a> <br/>
+  <a href="https://alltruismo.com/">alltruismo.com</a> <br/>
 </p>
-<h2>&lt;education-and-learning/&gt;</h2>
-<p>
-   - 👨‍🎓 I studied at the Universidad Tecnológica de Pereira Systems and computing engineering
-   - 🌱 I’m currently learning React.js, Machine learning with Python, AWS and english language level A2!
-
-   - 😎 I have developed different software projects at the university and my own projects that have contributed to my professional growth, such as web applications, IoT, video games, research and management of software projects, some of them implemented with technologies such as C++, Java, Python, React .js, PostgreSQL, Docker, Git, among others.
-   - 💡 You can find some of them here! ⬇️
- </p>
 
 <h2>&lt;skills/&gt;</h2>
 
@@ -66,6 +65,14 @@
 <a href="#"><img alt="Postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"></a>&nbsp;
 <a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"></a>&nbsp;
 
+<h2>&lt;education-and-learning/&gt;</h2>
+<p>
+   - 👨‍🎓 I studied at the Universidad Tecnológica de Pereira Systems and computing engineering <br/>
+   - 🌱 I’m currently learning React.js, Machine learning with Python, AWS and english language level A2! <br/>
+   - 😎 I have developed different software projects at the university and my own projects that have contributed to my professional growth, such as web applications, IoT, video games, research and management of software projects, some of them implemented with technologies such as C++, Java, Python, React .js, PostgreSQL, Docker, Git, among others. <br/>
+   - 💡 You can find some of them here! ⬇️
+ </p>
+ 
 <h2> &lt;Connect with me/&gt; </h2>
 &emsp;
 <a href="https://www.linkedin.com/in/alejandro-obando-1574a2207/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
