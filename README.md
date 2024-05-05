@@ -94,12 +94,15 @@
 </table>
 
 <h2>&lt;github-trophies/&gt;</h2>
+
 ![](https://github-profile-trophy.vercel.app/?username=AlejoObandoGil&theme=matrix&no-frame=false&no-bg=true&margin-w=4)
 
 <h2>&lt;random-dev-quote/&gt;</h2>
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 <h2>&lt;top-contributed-repo/&gt;</h2>
+
 ![](https://github-contributor-stats.vercel.app/api?username=AlejoObandoGil&limit=5&theme=ondedark&combine_all_yearly_contributions=true)
 
 <h2>&lt;education-and-learning/&gt;</h2>
