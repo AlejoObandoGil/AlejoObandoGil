@@ -79,7 +79,7 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) 
 
-📊<h2>&lt;github-stats/&gt;</h2>
+<h2>&lt;github-stats/&gt;</h2>
 <table align="center">
 <tr border="none">
 <td width="50%" align="center">
@@ -97,14 +97,14 @@
 </tr>
 </table>
 
-🏆<h2>&lt;GitHub Trophies/&gt;</h2>
+<h2>&lt;github-trophies/&gt;</h2>
 ![](https://github-profile-trophy.vercel.app/?username=AlejoObandoGil&theme=matrix&no-frame=false&no-bg=true&margin-w=4)
 
-✍️<h2>&lt;Random Dev Quote/&gt;</h2>
+<h2>&lt;random-dev-quote/&gt;</h2>
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-🔝<h2>&lt;Top Contributed Repo/&gt;</h2>
-![](https://github-contributor-stats.vercel.app/api?username=AlejoObandoGil&limit=5&theme=matrix&combine_all_yearly_contributions=true)
+<h2>&lt;top-contributed-repo/&gt;</h2>
+![](https://github-contributor-stats.vercel.app/api?username=AlejoObandoGil&limit=5&theme=ondedark&combine_all_yearly_contributions=true)
 
 <h2>&lt;education-and-learning/&gt;</h2>
 <p>
