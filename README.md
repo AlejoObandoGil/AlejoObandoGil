@@ -101,9 +101,8 @@
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-<h2>&lt;top-contributed-repo/&gt;</h2>
-
-![](https://github-contributor-stats.vercel.app/api?username=AlejoObandoGil&limit=5&theme=ondedark&combine_all_yearly_contributions=true)
+### <h2>&lt;top-contributed-repo/&gt;</h2>
+### ![](https://github-contributor-stats.vercel.app/api?username=AlejoObandoGil&limit=5&theme=ondedark&combine_all_yearly_contributions=true)
 
 <h2>&lt;education-and-learning/&gt;</h2>
 <p>
