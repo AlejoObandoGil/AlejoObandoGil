@@ -31,6 +31,14 @@
     🔜 <a href="https://alltruismo.com/">alltruismo.com</a> <br/>
 </p>
 
+<h2>&lt;education-and-learning/&gt;</h2>
+<p>
+   - 👨‍🎓 I studied at the Universidad Tecnológica de Pereira Systems and computing engineering <br/>
+   - 🌱 I’m currently learning React.js, Machine learning with Python, AWS and english language level A2! <br/>
+   - 😎 I have developed different software projects at the university and my own projects that have contributed to my professional growth, such as web applications, IoT, video games, research and management of software projects, some of them implemented with technologies such as C++, Java, Python, React .js, PostgreSQL, Docker, Git, among others. <br/>
+   - 💡 You can find some of them here! ⬇️
+ </p>
+
 <h2>&lt;skills/&gt;</h2>
 
 <h3>public function main()</h3>
@@ -100,14 +108,6 @@
 <h2>&lt;random-dev-quote/&gt;</h2>
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-<h2>&lt;education-and-learning/&gt;</h2>
-<p>
-   - 👨‍🎓 I studied at the Universidad Tecnológica de Pereira Systems and computing engineering <br/>
-   - 🌱 I’m currently learning React.js, Machine learning with Python, AWS and english language level A2! <br/>
-   - 😎 I have developed different software projects at the university and my own projects that have contributed to my professional growth, such as web applications, IoT, video games, research and management of software projects, some of them implemented with technologies such as C++, Java, Python, React .js, PostgreSQL, Docker, Git, among others. <br/>
-   - 💡 You can find some of them here! ⬇️
- </p>
 
  [![](https://visitcount.itsvg.in/api?id=AlejoObandoGil&icon=2&color=3)](https://visitcount.itsvg.in)
  
