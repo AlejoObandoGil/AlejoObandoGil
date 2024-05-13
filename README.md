@@ -22,7 +22,7 @@
 <h2>&lt;work/&gt;</h2>
 <p>
    - 👷 I’m currently working on Panthera! <br/>
-   - 💻 At Panthera I'm a Full Stack web developer at Panthera, working with technologies such as JavaScript, Vue.js, PHP, Laravel, MySQL and Docker mainly. <br/>
+   - 💻 I currently work as a Full Stack web developer at Panthera, working with technologies such as JavaScript, Vue.js, PHP, Laravel, MySQL and Docker mainly. <br/>
    - 💡 Some projects I have contributed to here! ⬇️ <br/>
     🔜 <a href="https://pantherahub.com/">pantherahub.com</a> <br/>
     🔜 <a href="https://accedotechnologies.com/">accedotechnologies.com</a> <br/>
